@@ -21,6 +21,7 @@ Input files:
 
 To run:
 * execute `sub3.R` from preferred R environment
+* it executes completely in about 3 seconds in the environment described above
 
 Outputs:
 * sub3_updatedDate.csv
