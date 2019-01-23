@@ -16,5 +16,12 @@ Input files:
 * train file: train.csv
 * test file: test_nFNPSyV.csv
 * sample submission: sample_submission_qfCnaKZ.csv
-* no other files were used to create the submission
-* The directory used to specifically create this solution is within the code; change accordingly 
+* _no other files were used to create the submission_
+* _The directory used to specifically create this solution is within the code (Line2); change accordingly_ 
+
+To run:
+* execute `sub3.R` from preferred R environment
+
+Outputs:
+* sub3_updatedDate.csv
+* _will output in the location set in Line2_
