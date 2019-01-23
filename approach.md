@@ -17,6 +17,9 @@ The path to reaching the model I started with was to start with something basic.
 
 I spent some time looking at the patterns across the Season variable within the product table. Season 9 exhibited a strongly increasing trend; Seasons 5 & 6 peaked in June and July, but were starting to show signs of rebounding; Season 11 also peaked in July, but had continued to decrease. I thought about ways to further integrate the Season within my model, particularly by identifying if a User was purchasing in-season products, and adjusting their recommendations to more heavily focus on a particular season. But with the test set spanning two months and two months for which we had not seen the dominant season, I decided to leave this alone, especially in the interest of time and a robust model.
 
+![image](https://user-images.githubusercontent.com/2976822/51584881-d5ab1000-1e9c-11e9-8603-a2ec47bacd94.png)
+Season over time (MMD, where D is a day of month bucket 0/1/2: 01-09/10-19/20-31)
+
 ### 4. What are the key takeaways from the challenge, if any?
 I like problems where straightforward solutions can present a strong model. I consider this a simple approach, yet one that fits the data and time allotted. Though I did not use the images, other than to glance at a few of the most popular purchases, I like that this dimension was available to participants (and we can see one successful approach to similarity performed well). No doubt a more comprehensive solution, ensembling multiple approaches to the problem could yield an even stronger solution.
 
